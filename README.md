@@ -32,3 +32,8 @@ It contains the unit tests for the following two API methods:
 + Open Nunit runner and give the path of “EventfulAPI.Test.dll” that lies in /bin/Debug/ folder
 + Run the test and see the results
 
+
+## Class diagram
+
+![](https://github.com/parminder7/NUnit/blob/master/img/Classdiagram_src3.png)![Class diagram of Test Source](https://github.com/parminder7/NUnit/blob/master/img/Classdiagram_src1.png)![](https://github.com/parminder7/NUnit/blob/master/img/Classdiagram_src2.png)![](https://github.com/parminder7/NUnit/blob/master/img/Classdiagram_src4.png)
+
