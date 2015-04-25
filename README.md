@@ -10,6 +10,11 @@ It contains the unit tests for the following two API methods:
 + /events/search (find doc [here](http://api.eventful.com/docs/events/search))
 
 
+##Test System Diagram:
+
+![Test system diagram](https://github.com/parminder7/NUnit/blob/master/img/TestSystemDiagram.png)
+
+
 ##IDE/Compiler Used:	
 
 + Microsoft Visual Studio 2013
