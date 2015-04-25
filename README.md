@@ -4,9 +4,10 @@
 ##Description:	
 
 This project tests the Eventful REST API. 
-It contains the unit tests for the following two API methods.
-		-	/venues/get (find doc here) http://api.eventful.com/docs/venues/get
-		-	/events/search (find doc here) http://api.eventful.com/docs/events/search
+It contains the unit tests for the following two API methods:
+
++ /venues/get (find doc [here](http://api.eventful.com/docs/venues/get))
++ /events/search (find doc [here](http://api.eventful.com/docs/events/search))
 
 
 ##IDE/Compiler Used:	
@@ -17,8 +18,7 @@ It contains the unit tests for the following two API methods.
 
 ##Prerequisites:
 
-+ An application key is required for accessing the Eventful API. 
-	Follow this link (http://api.eventful.com/keys/) to generate application key  
++ An application key is required for accessing the Eventful API. Follow this [link](http://api.eventful.com/keys) to generate application key  
 
 
 ##Running the solution:
