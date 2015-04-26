@@ -9,6 +9,9 @@ using EventfulAPI.Test.src;
 
 namespace EventfulAPI.Test
 {
+    /// <summary>
+    /// This class contains some of the tests related to /venues/get API method
+    /// </summary>
     public class VenuesGetTests : BaseFixture
     {
         [Test]

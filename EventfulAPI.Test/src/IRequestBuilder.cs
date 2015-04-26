@@ -17,8 +17,10 @@ namespace EventfulAPI.Test.src
         /// <param name="eventfulAppKey" optional="true"></param>
         /// <returns></returns>
         HttpWebRequest BuildRequest(string methodName, string eventfulAppKey = null);
+
         /// <summary>
-        /// 
+        /// This method creates the instance of HttpWebRequest.
+        /// It takes either events/search or venues/get EventfulAPI method name as methodName.
         /// </summary>
         /// <param name="methodName"></param>
         /// <param name="parameters"></param>

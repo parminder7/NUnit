@@ -9,6 +9,11 @@ namespace EventfulAPI.Test.src
 {
     public interface IRequestHandler
     {
+        /// <summary>
+        /// This method makes http web request on the basis of given request object.
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
         HttpWebResponse MakeRequest(HttpWebRequest request);
     }
 }

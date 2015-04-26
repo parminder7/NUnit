@@ -9,6 +9,9 @@ using System.Net;
 
 namespace EventfulAPI.Test
 {
+    /// <summary>
+    /// This class contains the simple tests to check the http response
+    /// </summary>
     public class eSanityTests : BaseFixture
     {
         [Test]
